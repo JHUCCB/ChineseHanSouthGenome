@@ -1,1 +1,1 @@
-# The Chinese Han Genome Assembly Survey
+# The Chinese Han South Genome
