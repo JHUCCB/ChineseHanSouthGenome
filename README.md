@@ -8,8 +8,8 @@ This repository contains links to the Southern Chinese Han reference genome asse
 
 The released assembly and annotation for the version 1 is available at these locations:
 
-* Assembly: [Han1_v1.2.fasta](bit.ly/3JylfV3) (ftp://ftp.ccb.jhu.edu/pub/data/Homo_sapiens/Han1/v1.0/Assembly/Han1_v1.2.fasta)
-* Annotation: [Han1_v1.3.gff3](bit.ly/3vMnqP3) (ftp://ftp.ccb.jhu.edu/pub/data/Homo_sapiens/Han1/v1.0/Annotation/Han1_v1.3.gff3)
+* Assembly: [Han1_v1.2.fasta](https://bit.ly/3JylfV3) (ftp://ftp.ccb.jhu.edu/pub/data/Homo_sapiens/Han1/v1.0/Assembly/Han1_v1.2.fasta)
+* Annotation: [Han1_v1.3.gff3](https://bit.ly/3vMnqP3) (ftp://ftp.ccb.jhu.edu/pub/data/Homo_sapiens/Han1/v1.0/Annotation/Han1_v1.3.gff3)
 
 ---
 
