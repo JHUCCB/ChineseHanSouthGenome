@@ -1,19 +1,28 @@
 # Southern Chinese Han Genome Assembly
 
-This repository contains links to the Southern Chinese Han reference genome assembly and annotation. Han1 is an assembly of an individual from Personal Genome Project codename HG00621. This repository has the initial version 1.0 assembly.
+The Han1 reference genome is a reference quality genome of an individual of Southern Chinese Han (CHS).
+
+This repository contains links to the Southern Chinese Han gapless genome assembly and whole genome annotation. Han1 is an assembly of an individual from Personal Genome Project codename HG00621. This repository has the initial version 1.0 assembly.
 
 ---
 
-## Version 1
+<br/>
+
+## Version 1 (August 06 2022)
 
 The released assembly and annotation for the version 1 is available at these locations:
 
-* Assembly: [Han1_v1.2.fasta](https://bit.ly/3JylfV3) (ftp://ftp.ccb.jhu.edu/pub/data/Homo_sapiens/Han1/v1.0/Assembly/Han1_v1.2.fasta)
-* Annotation: [Han1_v1.3.gff3](https://bit.ly/3vMnqP3) (ftp://ftp.ccb.jhu.edu/pub/data/Homo_sapiens/Han1/v1.0/Annotation/Han1_v1.3.gff3)
+#### Assembly: 
+* [Han1_v1.2.fasta](https://bit.ly/3JylfV3)  (ftp://ftp.ccb.jhu.edu/pub/data/Homo_sapiens/Han1/v1.0/Assembly/Han1_v1.2.fasta)
+
+#### Annotation: 
+* [Han1_v1.3.gff3](https://bit.ly/3vMnqP3)  (ftp://ftp.ccb.jhu.edu/pub/data/Homo_sapiens/Han1/v1.0/Annotation/Han1_v1.3.gff3)
 
 ---
 
-The Han1 reference genome is a reference quality genome of an individual of Southern Chinese Han (CHS).
+<br/>
+
+## Idiogram
 
 The data for the Han1 genome was generated and made publicly available by the Human Pangenome project (https://github.com/human-pangenomics/hpgp-data), which in turn used data from the 1000 Genomes Project and the Genome In A Bottle (GIAB) sample collections. The individual is identified as HG00621 in these collections.
 
@@ -23,7 +32,9 @@ The chromosome sequences for the Han1 reference genome contain bases encoded in 
 
 ---
 
-# Version 1.0 (August 06 2022)
+<br/>
+
+## Statistics for Version 1.0 (August 06 2022)
 |Chromosome|CHM13 #ctg|CHM13 size|Han1 #contigs|Han1 sequence|Han1 Non-HG00621 sequence| Han1/CHM13 |
 |---|---|---|----|----|----|----|
 |chr1|1|248,387,328|1|249,525,787|119,184|0.999522|
