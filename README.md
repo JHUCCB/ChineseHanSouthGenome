@@ -1,12 +1,12 @@
-# The Chinese Han South Genome
+# Southern Chinese Han Genome Assembly
 
-The Han1 reference genome is a reference quality genome of an individual of Southern Chinese Han.
+The Han1 reference genome is a reference quality genome of an individual of Southern Chinese Han (CHS).
 
 The data for the Han1 genome was generated and made publicly available by the Human Pangenome project (https://github.com/human-pangenomics/hpgp-data), which in turn used data from the 1000 Genomes Project and the Genome In A Bottle (GIAB) sample collections.
 
 The individual is identified as HG00621 in these collections.
 
-The chromosome sequences for the PR1 reference genome contain bases encoded in uppercase and lowercase letters. The uppercase letters represent sequence that originated from the Han1 de novo assembled contigs, and the lowercase bases represent sequence that we took from the CHM13 1.1 genome assembly by the T2T consortium to fill intra-contig gaps in the chromosome sequences.
+The chromosome sequences for the Han1 reference genome contain bases encoded in uppercase and lowercase letters. The uppercase letters represent sequence that originated from the Han1 de novo assembled contigs, and the lowercase bases represent sequence that we took from the T2T consortium CHM13 version 1.1 genome assembly augmented with the complete Y chromosome from HG002, to fill intra-contig gaps in the chromosome sequences.
 
 ![alt text](https://github.com/JHUCCB/ChineseHanSouthGenome/blob/main/Han1_chromosomes.png)
 
