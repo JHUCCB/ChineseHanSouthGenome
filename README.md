@@ -12,7 +12,7 @@ The chromosome sequences for the Han1 reference genome contain bases encoded in 
 
 ---
 
-# Version 1.0 (July 28 2022)
+# Version 1.0 (August 06 2022)
 |Chromosome|CHM13 #ctg|CHM13 size|Han1 #contigs|Han1 sequence|Han1 Non-HG00621 sequence| Han1/CHM13 |
 |---|---|---|----|----|----|----|
 |chr1|1|248,387,328|1|249,525,787|119,184|0.999522|
@@ -40,5 +40,4 @@ The chromosome sequences for the Han1 reference genome contain bases encoded in 
 |chrX|1|154,259,566|1|154,227,164|7,056,525|0.954246|
 |chrY|1|62,472,478|1|53,057,190|146,07,629|0.724681|
 |chrM|1|16,569|1|16,571|0|1.0001|
-|unplaced|0|0|11|5,367,700|0|1|
-|Total|24|3,117,304,519|36|3,105,075,398|119875682|0.996077|
+|Total|25|3,117,304,519|25|3,099,707,698|119875682|0.996077|
