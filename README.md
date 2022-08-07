@@ -37,7 +37,7 @@ In the idiogram below, the regions in red were assembled from HG00621, and regio
 <br/>
 
 ## Statistics for Version 1.0 (August 06 2022)
-|Chromosome|CHM13 #ctg|CHM13 size|Han1 #contigs|Han1 sequence|Han1 Non-HG00621 sequence| CHM13/Han1 |
+|Chromosome|CHM13 #ctg|CHM13 size|Han1 #contigs|Han1 sequence|Han1 Non-HG00621 sequence| Han1/CHM13 |
 |---|---|---|----|----|----|----|
 |chr1|1|248,387,328|1|249,525,787|119,184|1.00458|
 |chr2|1|242,696,752|1|242,739,747|2,482,037|1.00018|
@@ -61,7 +61,7 @@ In the idiogram below, the regions in red were assembled from HG00621, and regio
 |chr20|1|66,210,255|1|65,189,243|963,587|0.984579|
 |chr21|1|45,090,682|1|45,827,290|5,613,897|1.01634|
 |chr22|1|51,324,926|1|50,610,422|5,397,082|0.986079|
-|chrX|1|154,259,566|1|154,227,164|7,056,525|1.000210|
-|chrY|1|62,460,029|1|53,057,190|146,07,629|1.1772208253|
-|chrM|1|16,569|1|16,571|0|0.999879|
-|Total|25|3,117,292,070|25|3,099,707,698|119875682|1.005673|
+|chrX|1|154,259,566|1|154,227,164|7,056,525|0.999790|
+|chrY|1|62,460,029|1|53,057,190|146,07,629|0.849458|
+|chrM|1|16,569|1|16,571|0|1.000121|
+|Total|25|3,117,292,070|25|3,099,707,698|119875682|0.994359|
