@@ -37,7 +37,7 @@ In the idiogram below, the regions in red were assembled from HG00621, and regio
 <br/>
 
 ## Statistics for Version 1.0 (August 06 2022)
-|Chromosome|CHM13 #contigs|CHM13 size|Han1 #contigs|Han1 size|Han1 Non-HG00621 sequence| Han1 size / CHM13 size |
+|Chromosome|CHM13 #contigs|CHM13 size|Han1 #contigs|Han1 size| Non-HG00621 (inserted from CHM13) sequence| Han1 size / CHM13 size |
 |---|---|---|----|----|----|----|
 |chr1|1|248,387,328|1|249,525,787|119,184|1.00458|
 |chr2|1|242,696,752|1|242,739,747|2,482,037|1.00018|
