@@ -28,7 +28,7 @@ The data for the Han1 genome was generated and made publicly available by the Hu
 
 The chromosome sequences for the Han1 reference genome contain bases encoded in uppercase and lowercase letters. The uppercase letters represent sequence that originated from the Han1 de novo assembled contigs, and the lowercase bases represent sequence that we took from the T2T consortium CHM13 version 1.1 genome assembly augmented with the complete Y chromosome from HG002, to fill intra-contig gaps in the chromosome sequences.
 
-In the idiogram below, the regions in red were assembled from HG00621, and regions in light pink are sequences inserted from CHM13. The graphics was created using ideogram.js (\url{https://github.com/eweitz/ideogram}).
+In the idiogram below, the regions in red were assembled from HG00621, and regions in light pink are sequences inserted from CHM13. The graphics was created using ideogram.js (https://github.com/eweitz/ideogram).
 
 ![alt text](https://github.com/JHUCCB/ChineseHanSouthGenome/blob/main/Han1_chromosomes.png)
 
