@@ -2,7 +2,7 @@
 
 The Han1 reference genome is a reference quality genome of an individual of Southern Han Chinese (population code: CHS).
 
-This repository contains links to the Southern Chinese Han gapless genome assembly and whole genome annotation. Han1 is an assembly of an individual from Personal Genome Project codename HG00621. This repository has the initial version 1.0 assembly.
+This repository contains links to the Southern Han Chinese gapless genome assembly and whole genome annotation. Han1 is an assembly of an individual from Personal Genome Project codename HG00621. This repository has the initial version 1.0 assembly.
 
 ---
 
