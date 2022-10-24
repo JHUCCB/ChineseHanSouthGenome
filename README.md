@@ -18,6 +18,7 @@ The released assembly and annotation for the version 1 is available at these loc
 #### Annotation: 
 * [Han1_v1.4.gff3](https://bit.ly/3dgfNKf)  (ftp://ftp.ccb.jhu.edu/pub/data/Homo_sapiens/Han1/v1.0/Annotation/Han1_v1.4.gff3)
 
+We also provided a BED file providing the coordinate information for (1) sequences from Han1 and (2) sequences from T2T-CHM13. It is available here: [coordinates.bed](https://bit.ly/3Svkcb6) (ftp://ftp.ccb.jhu.edu/pub/data/Homo_sapiens/Han1/v1.0/coordinates.bed)
 ---
 
 <br/>
